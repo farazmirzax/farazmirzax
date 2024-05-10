@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me farazmirza2301@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: :)
 
 <!---
 code-with-faraz/code-with-faraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
