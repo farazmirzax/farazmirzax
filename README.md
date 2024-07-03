@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-with-faraz
+- 👋 Hi, I’m Faraz
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
