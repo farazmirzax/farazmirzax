@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Faraz
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me farazmirza2301@gmail.com
 - 😄 Pronouns: he/him
 
