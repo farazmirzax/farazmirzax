@@ -14,9 +14,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farazmirzax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2>Open Source Contributions</h2>
+
 <div align="center">
+  
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
+  
 </div>
+
 [![An image of @farazmirzax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farazmirzax)](https://holopin.io/@farazmirzax)
 
 
