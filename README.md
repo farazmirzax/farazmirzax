@@ -1,5 +1,5 @@
 # 💮 About Me:
-👋 Hi, I'm Faraz<br>👀 I'm interested in Software Development & Machine Learning<br>🌱 I'm currently diving deep into JavaScript and exploring Deep Learning with TensorFlow/PyTorch<br>🤖 Building ML models and cool web projects<br>💻 Check out my projects and contributions below!<br>📫 Feel free to reach out to me at farazmirza866@gmail.com<br>😄 Pronouns: he/him
+👋 Hi, I'm Faraz<br>👀 I'm interested in Software Development, Machine Learning, Deep Learning, AI Agents, Automation<br>🌱 I'm currently building AI Agents and exploring Deep Learning with TensorFlow/PyTorch<br>🤖 Building ML models and cool web projects<br>💻 Check out my projects and contributions below!<br>📫 Feel free to reach out to me at farazmirza866@gmail.com<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
